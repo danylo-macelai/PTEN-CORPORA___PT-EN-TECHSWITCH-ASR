@@ -1,3 +1,7 @@
+# Ignorar tudo dentro das pastas audio, mas não o .gitkeep
+audio/*
+!audio/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
