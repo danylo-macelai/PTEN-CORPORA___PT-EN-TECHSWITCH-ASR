@@ -1,3 +1,7 @@
+# Ignorar tudo dentro das pastas metrics, mas não o .gitkeep
+metrics/*
+!metrics/.gitkeep
+
 # Ignorar tudo dentro das pastas transcripts, mas não o .gitkeep
 transcripts/*
 !transcripts/.gitkeep

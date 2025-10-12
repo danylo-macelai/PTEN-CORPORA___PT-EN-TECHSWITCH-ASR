@@ -1,4 +1,5 @@
 pandas
 gTTS
+jiwer
 openai-whisper
 ffmpeg-python
