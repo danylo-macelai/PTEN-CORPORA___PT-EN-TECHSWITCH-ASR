@@ -1,2 +1,4 @@
 pandas
 gTTS
+openai-whisper
+ffmpeg-python

@@ -1,3 +1,7 @@
+# Ignorar tudo dentro das pastas transcripts, mas não o .gitkeep
+transcripts/*
+!transcripts/.gitkeep
+
 # Ignorar tudo dentro das pastas audio, mas não o .gitkeep
 audio/*
 !audio/.gitkeep
